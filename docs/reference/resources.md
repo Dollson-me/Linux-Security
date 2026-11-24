@@ -1,0 +1,65 @@
+# Resources & Links
+
+[← Indeks wiki](../index.md)
+
+Linki wykryte w materiałach kursowych. Część może wskazywać historyczne wersje oprogramowania używane w labach.
+
+- http://Debian
+- http://LocaLhost/
+- http://Localhost/
+- http://deb.debian.org/debian
+- http://debian.uz/debian-cd/10.3.0/amd64/iso-cd/debian-10.3.0-amd64-netinst.iso
+- http://localhost
+- http://localhost/fdsafasdfas
+- http://localhost/”
+- http://secUrTty+webian.org/debian-security
+- http://security.debian.org/debian-security
+- http://yoursite.com/archive[2000-2019]/vol[1-15]/part{a,b,c}.html
+- https://Debian
+- https://Debian/
+- https://Debian/™
+- https://archive,kali.org/archive-key.asc
+- https://archive.kali.org/archive-key.asc
+- https://arstechnica.com/gadgets/2021/08/linux-bsd-command-line-101-using-awk-sed-and-
+- https://blackarch.org/
+- https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-10.1.0-amd64-
+- https://crontab.guru
+- https://danielmiessler.com/p/vim/
+- https://debian
+- https://docs.nersc.gov/filesystems/unix-file-permissions/
+- https://download.virtualbox.org/virtualbox/6.0.14/VirtualBox-6.0.14-133895-Win.exe
+- https://en.wikipedia.org/wiki/Debian
+- https://github.com/SpiderLabs/owasp-modsecurity-crs
+- https://github.com/SpiderLabs/owasp-modsecurity-crs.git
+- https://github.com/coreruleset/coreruleset
+- https://github.com/rebootuser/LinEnum
+- https://github.com/torvalds/linux
+- https://http.kali.org/kali
+- https://httpd
+- https://httpd.apache.org/docs/2.4/
+- https://itbiznes.pl/oprogramowanie/nowy-polski-gnome/
+- https://kali.download/kali
+- https://linux.die.net/man/
+- https://ln5.sync.com/dl/6590efdb0/5cqptub9-t7apvd3u-6987ncj3-
+- https://loremipsum.io
+- https://loremipsum.iolgenerator/?n=38t=p
+- https://mirror.karneval.cz/pub/linux/kali
+- https://ohmyz.sh/
+- https://overthewire.org/wargames/bandit/
+- https://pixelozaa.wordpress.com/podstawowe-komendy-linuxa/
+- https://tails.boum.org/
+- https://ubuntu.com/download/desktop
+- https://wiki.debian.org/SourcesList
+- https://wiki.ubuntu.com/PolonizacjaUbuntu
+- https://www.astrouw.edu.pl/~jskowron/pracownia/komendy/
+- https://www.computerhope.com/unix/utar.htm
+- https://www.debian.org/
+- https://www.facebook.com/
+- https://www.freecodecamp.org/news/vim-beginners-guide/
+- https://www.kali.org/
+- https://www.linode.com/docs/guides/differences-between-grep-sed-awk/
+- https://www.openvim.com/
+- https://www.parrotsec.org/
+- https://www.pfsense.org/
+- https://www.whonix.org/
+- https://yoursite.{abc,def,ghi}.com
